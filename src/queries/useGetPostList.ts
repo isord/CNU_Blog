@@ -13,4 +13,4 @@ const useGetPostList = () => {
   });
 };
 
-export default useGetPostList();
+export default useGetPostList;
