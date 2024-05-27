@@ -58,7 +58,6 @@ const Layout = () => {
   return (
     <div>
       <Profile>
-        {/*todo (1) 프로필 꾸미기*/}
         <div>
           <ProfilePicture src="pexels-jim-fawns-231491-756758.jpg" alt="프로필 사진" />
         </div>
